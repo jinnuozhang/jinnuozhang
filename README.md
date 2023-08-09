@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🔭 &nbsp; Currently working at Purdue University [ABE sensor lab](https://engineering.purdue.edu/ABEPlantSensorLab)
 - 🤔 &nbsp; Exploring new technologies and methods in plant phenotyping
-- 🎓 &nbsp; Studying agricultural engineering, computer programming and spectroscopy
+- 🎓 &nbsp; Studying agricultural engineering, computer programming, and spectroscopy
 - 💼 &nbsp; Always be a learner
 - 🌱 &nbsp; Computer games (Baldur's Gate 3!) and basketball
 - ☕ &nbsp; I like Latte and Mocha 
@@ -31,8 +31,7 @@ Here are some ideas to get you started:
 
 - 💻 &nbsp; Python
 - 🔧 &nbsp; Visual Studio code |  Github
-- 🖥 &nbsp; Adobe Xd | Adobe Illustrator | Adobe Photoshop | OpenShot
-
+  
 <br>
 
 <!-- ![souvik's Github Stats](https://github-readme-stats.vercel.app/api?username=devSouvik&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
