@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Jinnuo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinnuozhang)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <h2> Hey there! I'm Jinnuo Zhang. <img src="https://raw.githubusercontent.com/jinnuozhang/jinnuozhang/main/Hi.gif" width="25"></h2>
 
 <img align="right" alt="GIF" src="https://github.com/jinnuozhang/jinnuozhang/blob/main/Batman.gif?raw=true" width="400"/>
