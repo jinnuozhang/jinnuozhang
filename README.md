@@ -14,22 +14,28 @@ Here are some ideas to get you started:
 -->
 <h2> Hey there! I'm Jinnuo Zhang. <img src="https://raw.githubusercontent.com/jinnuozhang/jinnuozhang/main/Hi.gif" width="25"></h2>
 
-<img align="right" alt="GIF" src="https://github.com/jinnuozhang/jinnuozhang/blob/main/Batman.gif?raw=true" width="400"/>
+
 
 <!-- https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif -->
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; Currently working at Purdue University [ABE sensor lab](https://engineering.purdue.edu/ABEPlantSensorLab)
-- 🤔 &nbsp; Exploring new technologies and methods in plant phenotyping
+- 🔭 &nbsp; Currently working at Shandong Agricultural University
+- 🤔 &nbsp; Exploring new technologies and methods in plant phenotyping and smart agriculture
 - 🎓 &nbsp; Studying agricultural engineering, computer programming, and spectroscopy
 - 💼 &nbsp; Always be a learner
-- 🌱 &nbsp; Computer games (Baldur's Gate 3!) and basketball
+- 🌱 &nbsp; Computer games (Baldur's Gate 3!), basketball and badminton
+- 📫 &nbsp; jnzhang0724@gmail.com or jnzhang@sdau.edu.cn
 - ☕ &nbsp; I like Latte and Mocha 
+
+<img align="right" alt="GIF" src="https://github.com/jinnuozhang/jinnuozhang/blob/main/Batman.gif?raw=true" width="400"/>
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python
+- 📚 &nbsp; Machine Learning
+- 📈 &nbsp; Deep Learning
+- 🌱 &nbsp; Plant Phenotyping
 - 🔧 &nbsp; Visual Studio code |  Github
   
 <br>
